@@ -1,4 +1,12 @@
-_buildtemplate
-==============
+# Launchpad
+Based on https://github.com/adamcbrewer/launchpad
 
-basic build template
+### Personalised biolerplates for both email & web
+
+Tools used:
+
+* HTML5BP
+* Twitter Bootstrap
+* SMACSS
+* Modernizr
+* MooTools
