@@ -43,7 +43,7 @@
 	 */
 	Modernizr.load({
 		load: [
-			S.basePath + '/assets/js/libs/jquery-1.8.2.js'
+			S.basePath + '/assets/js/libs/jquery-1.9.0-min.js'
 		],
 		complete: function () {
 
